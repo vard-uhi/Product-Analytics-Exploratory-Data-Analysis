@@ -1,6 +1,7 @@
-# Product-Analytics-Exploratory-Data-Analysis
+## Product Analytics: Exploratory Data Analysis
 
-#### About out Data
+**About out Data
+
 - Company - UK-based and registered non-store online retail
 - Products for selling - Mainly all-occasion gifts
 - Customers - Most are wholesalers (local or international)
