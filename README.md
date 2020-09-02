@@ -1,6 +1,8 @@
 ## Product Analytics: Exploratory Data Analysis
 
-**About out Data
+Task: Conduct exploratory data analysis.
+
+About Data
 
 - Company - UK-based and registered non-store online retail
 - Products for selling - Mainly all-occasion gifts
